@@ -1,1 +1,1 @@
-This is Git Lab --h
+This is Git Lab for jenkins
